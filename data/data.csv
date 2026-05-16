@@ -1,0 +1,2080 @@
+﻿type;id;name;gender
+;Q2121848;A 1;-
+;Q2121848;A 2;-
+;Q2121848;A 3;-
+;Q2121848;A 4;-
+;Q2121848;A 5;-
+;Q1141780;Abendröte;-
+;-;Aberlering;+
+;Q91;Abraham-Lincoln-Allee;m
+;Q373824;Acherner Straße;-
+;Q319670;Achkarrer Weg;-
+;Q3588;Achtundvierziger Platz;-
+;Q188869;Ackerstraße;-
+;Q168542;Adalbert-Stifter-Straße;m
+;Q355435;Adelsheimer Straße;-
+;;Adlerstraße;
+;Q89439;Adolf-Damaschke-Ring;m
+;Q42292;Ahornallee;-
+;Q42292;Ahornhof;-
+;Q42292;Ahornweg;-
+;Q16006205;Akademiestraße;-
+;Q5861969;Akazienstraße;-
+;Q1257886;Alberichstraße;m
+;Q46141478;Albert-Fritz-Weg;m
+;Q132990;Alemannenstraße;+
+;Q61305;Alfred-Delp-Straße;m
+;Q82765;Allensteiner Weg;-
+;;Almenplatz;-
+;;Almenstraße;-
+;Q161048;Alois-Senefelder-Straße;m
+;;Alphornstraße;-
+;Q82781;Alpirsbacher Weg;-
+;Q546344;Alpseeweg;-
+;Q165383;Alsenweg;-
+;Q878458;Altdammer Straße;-
+;Q1794;Alte Frankfurter Straße;-
+;Q2119;Alte Mannheimer Poststraße;-
+;;Alte Seilerei;-
+;Q7050;Alte Weinheimer Straße;-
+;Q15976;Altenburger Weg;-
+;Q1794;Alter Frankfurter Weg;-
+;;Alter Friedhofweg;-
+;Q2119;Alter Mannheimer Weg;-
+;;Alter Meßplatz;-
+;;Alter Postweg;-
+;;Alter Rangierbahnhof;-
+;Q440724;Altheimer Straße;-
+;"Q62204;Q100540";Altigweg;+
+;Q208119;Altkircher Straße;-
+;Q317060;Altmühlstraße;-
+;-;Altrheinstraße;-
+;Q22461;Altriper Straße;-
+;;Am Aubuckel;-
+;Q18335820;Am Bogen;-
+;;Am Breiten Stein;-
+;;Am Brunnengarten;
+;Q40224;Am Carl-Benz-Bad;m
+;;Am Dünenrand;
+;;Am Durchlaß;
+;;Am Exerzierplatz;-
+;;Am Friedensplatz;
+;-;Am Friedhof;-
+;;Am Geheugraben;-
+;;Am Grünen Hag;
+;Q1510380;Am Hain;-
+;;Am Herrschaftswald;-
+;Q1716367;Am Jüdischen Friedhof;-
+;;Am Kiefernbühl;-
+;;Am Klumbengarten;-
+;;Am Kuhbuckel;
+;;Am Markt;
+;;Am Meßplatz;-
+;;Am Oberen Luisenpark;
+;Q2135068;Am Rebstock;-
+;;Am Rheinauer See;
+;;Am Römerbrunnen;
+;Q104602114;Am Salzkai;-
+;;Am Sandhang;
+;;Am Schäferstock;
+;;Am Schelmenbuckel;-
+;;Am Schulgarten;
+;;Am Schwalbennest;
+;;Am Sonnengarten;
+;;Am Sonnigen Hang;
+;;Am Steingarten;
+;;Am Stich;-
+;;Am Stock;-
+;;Am Ullrichsberg;
+;Q1515577;Am Unkenteich;-
+;;Am Victoria Turm;
+;;Am Waldrand;
+;Q19963296;Am Wallstadter Bahnhof;-
+;;Am Weidenbergel;-
+;Q282;Am Weingarten;-
+;;Am Wildpark;-
+;Q108680;Amalie-Sieveking-Weg;w
+;Q446542;Amerikanerstraße;-
+;Q265336;Ammerseestraße;-
+;Q474051;Amorbacher Straße;-
+;Q25234;Amselstraße;-
+;Q25234;Amselstraße;-
+;;An den Kasernen;-
+;Q125432;An der Arena;-
+;Q52153386;An der Kammerschleuse;-
+;Q72943011;An der Radrennbahn;-
+;Q5673;Andersenstraße;m
+;Q11697;Andreas-Hofer-Straße;m
+;Q11817;Andrew-Jackson-Straße;m
+;Q158286;Anemonenweg;-
+;Q1194492;Angelstraße;-
+;Q488513;Anklamer Weg;-
+;Q47079479;Anna Reiß Weg;w
+;-;Anna-Maria-von-Schrader-Weg;w
+;Q116458453;Anna-Sammet-Straße;w
+;Q96053705;Anton-Kurz-Weg;m
+;Q12892;Antwerpener Straße;-
+;Q154897;Apenrader Weg;-
+;Q18674606;Apfelblüte;-
+;Q490689;Apoldaer Weg;-
+;Q17592548;Archivplatz;-
+;Q181947;Armbrustweg;-
+;Q57351;Arndtstraße;m
+;Q21057245;Arno-Anke-Weg;m
+;-;Asamplatz;+
+;Q486991;Ascherslebener Weg;-
+;Q25158438;Assenheimer Straße;-
+;Q317535;Aßmannshäuser Straße;-
+;Q517130;Asterstraße;-
+;Q698516;Atterseestraße;-
+;Q25307;Atzelbuckelstraße;-
+;;Atzelhofstraße;-
+;Q129059;Auerhahnstraße;-
+;;Auf dem Kegel;
+;;Auf dem Sand;
+;Q155721;Auf den Brockenweg;-
+;;Auf den Ried;-
+;;Auf der Blumenau;-
+;;Auf der Vogelstang;-
+;;Aufeldstraße;-
+;;Aufeldweg I;-
+;;Aufeldweg II;-
+;;Aufeldweg III;-
+;;Aufeldweg IV;-
+;;Aufeldweg V;-
+;;Aufstieg;
+;;Augartenplatz;-
+;;Augartenstraße;-
+;Q268734;Auggener Straße;-
+;Q76520;August-Bebel-Park;m
+;Q76520;August-Bebel-Straße;m
+;Q65271;August-Borsig-Straße;m
+;Q762529;August-Kuhn-Straße;m
+;Q57541;Augustaanlage;w
+;;Ausgasse;-
+;;Außeneck;-
+;;Äußere Bogenstraße;
+;;Äußere Querstraße;
+;;Äußere Wingertstraße;-
+;Q2121848;B 1;
+;Q2121848;B 2;
+;Q2121848;B 3;
+;Q2121848;B 4;
+;Q2121848;B 5;
+;Q2121848;B 6;
+;Q2121848;B 7;
+;Q1339;Bachstraße;m
+;;Bäckerweg;-
+;Q7047;Bad Kreuznacher Straße;-
+;Q822734;Badener Platz;-
+;Q822734;Badener Straße;-
+;Q25430;Badenweilerstraße;-
+;Q778;Bahamastraße;-
+;Q518801;Bahlinger Straße;-
+;;Bahnhofstraße;-
+;Q81241;Baiersbronner Winkel;-
+;Q131658;Baldurstraße;m
+;Q314302;Ballonstraße;
+;Q578513;Baloghweg;m
+;Q170143;Banater Straße;-
+;;Bärlochweg;-
+;Q43982;Bartholomäusstraße;m
+;Q810495;Bassermannstraße;+
+;;Baumgang;-
+;Q148939;Baumhaselweg;-
+;;Baumstraße;
+;Q14835;Bautzener Weg;-
+;Q103911845;Bechererplatz;m
+;Q255;Beethovenstraße;m
+;Q96775;Beilstraße;m
+;;Beim Bauerspfad;-
+;;Beim Glockacker;-
+;;Beim Hochwald;
+;;Beim Johannkirchhof;
+;;Beim Teufelsberg;
+;Q515385;Belchenstraße;-
+;Q171545;Belfortgäßchen;-
+;Q171545;Belfortstraße;-
+;Q25356;Bellenstraße;-
+;Q61630;Bellinger Weg;-
+;Q34969;Benjamin-Franklin-Platz;m
+;Q14872;Bensheimer Straße;-
+;Q55848397;Bensingerstraße;m
+;Q76614;Bergiusstraße;m
+;Q64;Berliner Straße;-
+;Q537241;Bernauer Weg;-
+;Q14938;Bernburger Weg;-
+;Q75845;Besselstraße;m
+;Q876687;Bibienastraße;m
+;Q375875;Bibliser Straße;-
+;Q649700;Bickensohler Weg;-
+;Q92016;Billingstraße;m
+;-;Binnenhafenstraße;-
+;Q158480;Binsenweg;-
+;Q25243;Birkenallee;-
+;Q512538;Birkenauer Straße;-
+;Q25243;Birkenschneise;-
+;Q434;Birnbaumstraße;-
+;Q13142499;Bischoffinger Weg;-
+;Q22431;Bischweilerring;-
+;Q8442;Bismarckplatz;m
+;Q8442;Bismarckstraße;m
+;Q836932;Bitterfelder Weg;-
+;-;Björn-Kommer-Weg;m
+;Q525960;Blankenburger Weg;-
+;Q153522;Blücherstraße;m
+;;Blumenauer Bruch;-
+;-;Blumenauer Weg;-
+;;Blumenstraße;
+;;Blütenweg;
+;Q2103;Bochumer Straße;-
+;Q123071;Böcklinplatz;m
+;Q123071;Böcklinstraße;m
+;Q1695534;Böckstraße;m
+;Q87306;Bodelschwinghweg;m
+;Q890155;Boehringerstraße;-
+;Q65183;Bohnenbergerstraße;m
+;-;Bonadiesstraße;-
+;Q178703;Bonndorfer Straße;-
+;;Bösfeld Weg I;-
+;;Bösfeld Weg II;-
+;;Bösfeld Weg III;-
+;;Bösfeld Weg IV;-
+;;Bösfeld Weg V;-
+;Q518889;Bötzinger Weg;-
+;Q664420;Boveristraße;-
+;Q61851;Boxberger Straße;-
+;;Boxheimer-Straße;-
+;Q7294;Brahmsstraße;m
+;Q1208;Brandenburger Straße;-
+;;Branntweinweg;-
+;Q2773;Braunschweiger Allee;-
+;Q869095;Braustraße;-
+;Q489911;Breisacher Straße;-
+;;Breite Weg;-
+;Q213960;Brentanostraße;m
+;Q495428;Brettener Straße;-
+;Q155721;Brockenweg;-
+;Q13180;Brombeerweg;-
+;Q41252;Bromberger Baumgang;-
+;Q7059;Bruchsaler Straße;-
+;Q1539728;Brückenstraße;-
+;;Brückeswasen;-
+;Q81752;Brucknerstraße;m
+;"Q2793;Q6714;Q6701";Brüder Grimm-Straße;+
+;Q22962;Brühler Ring;-
+;"Q850506;Q50813770;Q50813806";Brunhildestraße;w
+;;Brunnenpfad;-
+;;Brunnenstraße;-
+;;Brunnenweg;-
+;Q95676326;Bruno-Rüffer-Straße;m
+;Q179252;Buchener Straße;-
+;-;Buckelallee;-
+;Q505534;Bühler Straße;-
+;Q71031;Bunsenstraße;m
+;-;Bürgermeister-Fuchs-Straße;+
+;-;Burgstraße;-
+;-;Bürkleplatz;m
+;Q524974;Bürstadter Straße;-
+;Q235152;Bussardstraße;-
+;Q2121848;C 1
+;Q2121848;C 2
+;Q2121848;C 3
+;Q2121848;C 4
+;Q2121848;C 6
+;Q2121848;C 7
+;Q2121848;C 8
+;-;Cahn-Ganier-Ufer;m
+;Q11815;Calvinstraße;m
+;Q72620;Cannabichstraße;m
+;Q1040192;Carl-Reiß-Weg;m
+;Q40224;Carl-Benz-Straße;m
+;Q57430;Carl-Goerdeler-Straße;m
+;Q1039758;Carl-Metz-Straße;m
+;Q62594;Carl-Philipp-Platz;m
+;Q1040192;Carl-Reiß-Platz;m
+;Q94764011;Carl-Reuther-Straße;m
+;Q44961;Carl-Theodor-Platz;m
+;Q76820;Carl-Zuckmayer-Straße;m
+;Q67511;Carlo Schmid Brücke;m
+;Q69707;Caroline-Jagemann-Weg;w
+;Q47520256;Carolus-Vocke-Ring;m
+;;Casterfeld Weg 1;-
+;;Casterfeld Weg 2;-
+;;Casterfeld Weg 3;-
+;;Casterfeldstraße;-
+;-;Cecil-Taylor-Ring;m
+;-;Celluloidstraße;-
+;Q154782;Chamissostraße;m
+;Q57221;Charlottenplatz;w
+;Q92382;Cheliusstraße;m
+;Q2795;Chemnitzer Straße;-
+;Q268307;Cheruskerring;+
+;Q4138;Chiemseestraße;-
+;Q927033;Christian-Friedrich-Schwan-Straße;m
+;Q44652;Christian-Morgenstern-Straße;m
+;Q107526985;Clara-Reimann-Straße;w
+;Q21209;Claus-von-Stauffenberg-Straße;m
+;Q504590;Clausthaler Ring;-
+;Q1605768;Clignetplatz;m
+;Q16661298;Coblitzallee;m
+;Q502749;Cochemer Straße;-
+;Q560731;Coehornstraße;m
+;Q318216;Collinistraße;m
+;Q7322;Columbusstraße;m
+;Q58833;Corneliusstraße;m
+;Q3214;Cottbuser Weg;-
+;Q2121848;D 1;
+;Q2121848;D 2;
+;Q2121848;D 3;
+;Q2121848;D 4;
+;Q2121848;D 5;
+;Q2121848;D 6;
+;Q2121848;D 7;
+;Q10328397;Dachspfad;-
+;Q130918;Dahlienplatz;-
+;Q130918;Dahlienweg;-
+;Q214611;Dalbergstraße;m
+;-;Dammstraße;-
+;Q96026317;Daniel-Seizinger-Weg;m
+;Q35;Dänischer Tisch;-
+;Q567207;Dannstadter Straße;-
+;Q1792;Danziger Baumgang;-
+;Q2973;Darmstadter Straße;-
+;Q1510455;Dehof-Arkaden;m
+;-;Dehoustplatz;m
+;Q22951;Deidesheimer Straße;-
+;Q12052;Delitzscher Straße;-
+;Q584;Der Hohe Weg zum Rhein;-
+;-;Der Weidenweg;-
+;Q487070;Dessauer Weg;-
+;-;Deutsche Gasse;-
+;Q2298145;Diakonissenstraße;+
+;Q525493;Dieburger Straße;-
+;Q882867;Diedesfelder Straße;-
+;Q77434;Diesterwegstraße;m
+;Q76326;Dietrich-Bonhoeffer-Straße;m
+;Q2086664;Diffenéstraße;m
+;Q158408;Dillinger Straße;-
+;Q474697;Dirschauer Weg;-
+;-;Distelsand;-
+;Q25345384;Dohlengasse;-
+;Q25382;Dompfaffweg;-
+;Q1724897;Domstiftstraße;-
+;Q42952;Donarstraße;m
+;Q1653;Donaustraße;-
+;Q22547;Donnersbergstraße;-
+;Q1242068;Dononstraße;-
+;;Dorfgärtenstraße;-
+;;Dorfstraße;-
+;-;Dornheimer Ring;-
+;Q1295;Dortmunder Straße;-
+;;Dossenwaldweg;-
+;Q1254237;Drachenfelsstraße;-
+;Q194199;Dragonerweg;-
+;Q77122;Draisstraße;m
+;Q761138;Dreesbachstraße;m
+;;Dreimärker Weg;-
+;;Dreimärkerschneise;-
+;;Dreisteinweg;-
+;Q1731;Dresdener Straße;-
+;Q26050;Drosselstraße;-
+;Q65340;Dudenstraße;m
+;Q2100;Duisburger Straße;-
+;;Dünenhof;-
+;;Dünenweg;-
+;Q834580;Düppelweg;-
+;Q5580;Dürerstraße;m
+;Q22901;Dürkheimer Straße;-
+;Q639876;Durlacher Straße;-
+;Q1718;Düsseldorfer Straße;-
+;Q1269111;Dynamostraße;-
+;Q2121848;E 1;
+;Q2121848;E 2;
+;Q2121848;E 3;
+;Q2121848;E 4;
+;Q2121848;E 5;
+;Q2121848;E 6;
+;Q2121848;E 7;
+;Q22873;Eberbacher Platz;-
+;Q22873;Eberbacher Straße;-
+;Q884300;Ebernburgstraße;-
+;Q9306;Eberswalder Weg;-
+;Q61666;Eckenerstraße;m
+;Q537985;Edenkobener Straße;-
+;Q81099;Edinger Riedweg;-
+;Q81099;Edinger Riedweg;-
+;Q8743;Edisonstraße;m
+;-;Edwin-Reis-Straße;m
+;Q874984;Egellstraße;m
+;Q259699;Eibseeweg;-
+;;Eichbaumstraße;-
+;Q1301359;Eichelbergstraße;-
+;Q1011559;Eichelsheimer Straße;-
+;Q77204;Eichendorffstraße;m
+;Q12004;Eichenhof;-
+;Q12004;Eichenweg;-
+;Q281124;Eichhörnchenweg;-
+;Q606787;Eichstetter Straße;-
+;Q152356;Eifelstraße;-
+;;Eigene Scholle;-
+;Q12055;Eilenburger Weg;-
+;Q937;Einsteinstraße;m
+;;Eintrachtstraße;-
+;Q7070;Eisenacher Weg;-
+;;Eisenbahnstraße;-
+;Q761166;Eisenlohrplatz;m
+;Q761166;Eisenlohrstraße;m
+;Q678565;Eisenstraße;-
+;Q484870;Eislebener Weg;-
+;Q104712;Elbinger Weg;-
+;Q174396;Elfenstraße;+
+;Q78060;Elisabeth-Altmann-Gottheiner-Straße;w
+;Q93711;Elisabeth-Bergner-Weg;w
+;Q107664701;Elisabeth-Blaustein-Straße;w
+;Q70670;Elisabeth-von-Thadden-Straße;w
+;Q57221;Elisabethstraße;w
+;Q23017;Ellerstadter Straße;-
+;Q214278;Elritzenweg;-
+;Q469673;Elsa-Brändström-Straße;w
+;Q25307;Elstergasse;-
+;Q55842857;Emil-Heckel-Straße;m
+;Q462615;Emy-Roeder-Straße;w
+;Q168511;Endinger Straße;-
+;Q27725;Entennest;-
+;Q27725;Entenstrich;-
+;Q144682;Enzianstraße;-
+;Q571748;Erbacher Straße;-
+;Q1729;Erfurter Weg;-
+;Q94838095;Erhard-Bruche-Weg;m
+;Q25239;Erlenstraße;-
+;Q156890;Ernst-Barlach-Allee;m
+;-;Ernst-Throm-Straße;m
+;Q51301797;Ernsttaler Straße;-
+;Q22517;Ersteiner Straße;-
+;-;Erwin-Reich-Weg;m
+;Q57156;Erwin-von-Witzleben-Straße;m
+;Q57755;Erzbergerstraße;m
+;Q128887;Eschenhof;-
+;Q1367094;Eschkopfstraße;-
+;Q146110;Espenstraße;-
+;Q2066;Essener Straße;-
+;Q15630694;Esther-Charlotte-Brandes-Weg;w
+;Q14893;Ettlinger Straße;-
+;Q62666;Eugen-Bolz-Straße;m
+;Q70962;Eugen-Richter-Straße;m
+;Q95975952;Eugen-Sigrist-Weg;m
+;Q61197826;Eugenie-Kaufmann-Straße;w
+;Q25222;Eulenweg;-
+;;Europaplatz;-
+;Q1379210;Eva-Hermann-Straße;w
+;Q2121848;F 1;
+;Q2121848;F 2;
+;Q2121848;F 3;
+;Q2121848;F 4;
+;Q2121848;F 5;
+;Q2121848;F 6;
+;Q2121848;F 7;
+;;Fabrikstationstraße;
+;Q1391831;Fadenweg;-
+;-;Fahrgasse;-
+;;Fahrlachstraße;-
+;Q1011686;Falkensteinweg;-
+;Q43489;Falkenstraße;-
+;Q2578783;Fardelystraße;m
+;Q80005;Farnkrautweg;-
+;Q25432;Fasanenstraße;-
+;Q161;Faserweg;-
+;Q316401;Feldbergstraße;-
+;;Feldstraße;
+;Q1409424;Feudenheimer Grün;-
+;Q1409424;Feudenheimer Straße;-
+;Q250194;Feuerbachplatz;m
+;Q250194;Feuerbachstraße;m
+;Q145992;Fichtenweg;-
+;Q102585;Fichtestraße;m
+;Q160835;Finkenstraße;-
+;;Fischerstraße;-
+;Q45108;Flachsstraße;-
+;Q242485;Flamländerstraße;+
+;Q3798;Flensburger Ring;-
+;Q157449;Fliederweg;-
+;;Floßwörthstraße;-
+;Q12024;Föhrenhof;-
+;Q12024;Föhrenweg;-
+;Q81306;Forbacher Weg;-
+;Q680236;Forggenseestraße;-
+;Q12024;Forlenstraße;-
+;Q23024;Forster Straße;-
+;Q71104;Frankenberger Weg;-
+;Q43482;Frankenstraße;+
+;Q6905;Frankenthaler Straße;-
+;Q1794;Frankfurter Pfad;-
+;Q90291;Frankstraße;m
+;Q1446493;Franz-Conrad-Linck-Straße;m
+;Q15450820;Franz-Gelb-Weg;m
+;Q94892936;Franz-Gember-Anlage;m
+;Q66543;Franz-Grashof-Straße;m
+;Q1448942;Franz-Schnabel-Straße;m
+;-;Franz-Sigel-Straße;m
+;Q214667;Franz-Volhard-Straße;m
+;"Q2316067;Q676555";Franziskusstraße;-
+;Q121842;Franzosenkai;+
+;Q121842;Franzosenweg;+
+;Q1707024;Fratrelstraße;m
+;Q43948;Fraunhoferstraße;m
+;-;Fred-Joachim-Schoeps-Straße;m
+;Q108664;Freherstraße;m
+;Q14819;Freiberger Ring;-
+;Q2833;Freiburger Straße;-
+;;Freie Luft;-
+;;Freier Weg;-
+;Q799097;Freiheitsplatz;-
+;Q539630;Freinsheimer Straße;-
+;Q1647325;Freyaplatz;w
+;Q1647325;Freyastraße;w
+;Q72292;Fridtjof-Nansen-Weg;m
+;Q516485;Friedberger Straße;-
+;Q22984;Friedelsheimer Straße;-
+;;Friedensplatz;-
+;Q46083;Friedensstraße;-
+;;Friedhofstraße;-
+;-;Friedrich-Böttger-Straße;m
+;Q77289293;Friedrich-Dürr-Straße;m
+;Q2646;Friedrich-Ebert-Brücke;m
+;Q2646;Friedrich-Ebert-Straße;m
+;Q86159;Friedrich-Engelhorn-Straße;m
+;Q60505;Friedrich-Karl-Straße;m
+;Q72363;Friedrich-Koenig-Straße;m
+;-;Friedrich-Traumann-Straße;m
+;Q1462723;Friedrich-Walter-Straße;m
+;Q1464220;Friedrichsfelder Eck;-
+;Q1464220;Friedrichsfelder Weg;-
+;Q57483;Friedrichsplatz;m
+;Q57483;Friedrichsring;m
+;Q57483;Friedrichstraße;m
+;Q1875414;Friesenheimer Straße;-
+;;Frischer Mut;-
+;;Frischer Sinn;-
+;-;Fritz-Huber-Straße;m
+;Q1468124;Fritz-Salm-Straße;m
+;Q60570;Frobeniusstraße;m
+;;Frohe Zuversicht;-
+;-;Fröhlichstraße;m
+;;Fronäckerstraße;-
+;;Frondgraben;
+;;Fruchtbahnhofstraße;
+;Q1312;Frühlingstraße;-
+;Q8332;Fuchsfalle;-
+;Q161066;Fuchsienweg;-
+;;Füllenweg;-
+;Q16064;Fürstenwalder Weg;-
+;Q1483706;Fürther Straße;-
+;Q2121848;G 1;
+;Q2121848;G 2;
+;Q2121848;G 3;
+;Q2121848;G 4;
+;Q2121848;G 5;
+;Q2121848;G 6;
+;Q2121848;G 7;
+;Q62137;Gabelsbergerstraße;m
+;Q1489831;Gabriel-Grupello-Weg;m
+;Q504451;Gaggenauer Straße;-
+;Q307;Galileistraße;m
+;-;Gallenbergweg;+
+;Q1589;Galvanistraße;m
+;Q772978;Gambrinusstraße;m
+;Q131766522;Garnisonstraße;-
+;Q49007;Garnstraße;-
+;;Gartenfeldstraße;
+;;Gartenschauweg;
+;;Gartenstraße;
+;;Gärtnerstraße;-
+;-;Gaswerkstraße;-
+;Q6722;Gaußstraße;m
+;Q209814;Gebweilerstraße;-
+;Q14077843;Geheimrat-Haas-Platz;m
+;Q77333;Geibelstraße;m
+;Q123120;Geierstraße;-
+;Q505495;Gengenbacher Straße;-
+;Q1505143;Georg-Lechleiter-Platz;m
+;-;George-Sullivan-Ring;m
+;Q23;George-Washington-Straße;m
+;Q3750;Geraer Ring;-
+;Q157211;Geranienweg;-
+;Q1510455;Gerd-Dehof-Platz;m
+;Q61507;Gerhard-Marcks-Straße;m
+;Q43523;Gerhart-Hauptmann-Straße;m
+;Q428114;Germaniastraße;w
+;Q1291267;Gernotweg;m
+;Q625091;Gernsheimer Straße;-
+;Q11577;Gerstenstraße;-
+;Q139193997;Gert-Magnus-Platz;m
+;Q71416;Gertrud-Bäumer-Straße;w
+;Q94746406;Gertrud-Beinling-Weg;w
+;Q111454;Gerwigstraße;m
+;;Gewerbstraße;-
+;Q3874;Gießenstraße;-
+;Q882850;Gimmeldinger Straße;-
+;Q156696;Ginsterweg;-
+;Q678565;Glasstraße;-
+;Q20071;Glauchauer Weg;-
+;Q494617;Glücksburger Weg;-
+;Q1576433;Glücksteinallee;m
+;Q130759;Gluckstraße;m
+;Q165519;Gneisenaustraße;m
+;Q51432;Gnesener Straße;-
+;Q126814;Goeggstraße;m
+;Q5879;Goetheplatz;m
+;Q5879;Goethestraße;m
+;;Gondelplatz;-
+;;Gondelstraße;-
+;Q553267;Gönnheimer Weg;-
+;;Gontardplatz;-
+;;Gontardstraße;-
+;Q69087;Gorch-Fock-Straße;m
+;Q4077;Görlitzer Weg;-
+;Q215730;Görresstraße;m
+;Q1538440;Gorxheimer Straße;-
+;Q3896;Goslarer Weg;-
+;Q42193;Gotenstraße;+
+;Q6986;Gothaer Weg;-
+;;Gottfriedstraße;-
+;Q57098;Gottlieb-Daimler-Straße;m
+;;Grabenweg;
+;;Gralsstraße;
+;Q34836;Grant Circle;m
+;-;Graßmannstraße;m
+;;Grasweg;
+;Q123511;Graudenzer Linie;-
+;Q4098;Greifswalder Weg;-
+;;Grenadierstraße;-
+;Q15111809;Grenzhofer Weg;-
+;;Grenzschneise;
+;;Grenzweg;-
+;Q94697026;Grete-Fleischmann-Straße;w
+;Q98681;Grillenbergerstraße;m
+;Q154438;Grillparzerstraße;m
+;-;Grohbergstraße;+
+;Q251689;Groß-Gerauer Straße;-
+;;Großbranndweg;
+;;Große Ausdauer;
+;Q25239;Große Erlen;-
+;;Große Holzgasse;-
+;;Großer Weidstückerweg;-
+;;Großfeldstraße;-
+;;Großgehrenstraße;-
+;;Grüner Winkel;
+;Q154338;Grünewaldstraße;m
+;Q1552377;Grüntenseeweg;-
+;Q77214;Gryphiusweg;m
+;Q491164;Gudrunweg;w
+;Q537997;Gundelsheimer Straße;-
+;"Q16573492;Q54997165";Guntherweg;m
+;Q84844;Gustav-Seitz-Straße;m
+;Q538615;Gutacher Ring;-
+;;Gute Erde;-
+;Q8958;Gutenbergstraße;m
+;;Guter Fortschritt;
+;;Güterhallenstraße;-
+;Q2121848;H 1;
+;Q2121848;H 2;
+;Q2121848;H 3;
+;Q2121848;H 4;
+;Q2121848;H 5;
+;Q2121848;H 6;
+;Q2121848;H 7;
+;Q837186;Haardtstraße;-
+;Q137474876;Habichtplatz;-
+;Q137474876;Habichtstraße;-
+;Q29868;Haderslebener Straße;-
+;;Hafenbahnstraße;
+;;Hafenstraße;
+;Q22730;Hagenauer Straße;-
+;Q22730;Hagenauer Winkel;-
+;"Q1568447;Q55000105";Hagenstraße;m
+;Q158513;Hainbuchenhof;-
+;Q158513;Hainbuchenweg;-
+;Q7072;Halberstadter Weg;-
+;;Hallenbrücken;-
+;;Hallenbuckel;-
+;;Hallenstraße;-
+;;Hallenweg;-
+;Q2814;Hallesche Straße;-
+;Q1555905;Halmhuberstraße;m
+;Q393532;Hambacher Straße;-
+;Q25294;Hammerstraße;-
+;Q3802;Hanauer Platz;-
+;Q3802;Hanauer Straße;-
+;Q79817;Hanfstraße;-
+;;Hangstraße;-
+;Q58758;Hanns-Martin-Schleyer-Straße;m
+;Q105130;Hans-Böckler-Platz;m
+;Q105130;Hans-Böckler-Straße;m
+;Q1576433;Hans-Glückstein-Platz;m
+;Q96080510;Hans-Heck-Weg;m
+;Q1580662;Hans-Kampffmeyer-Weg;m
+;Q1581995;Hans-Reschke-Ufer;m
+;Q19543;Hans-Sachs-Ring;m
+;Q1582483;Hans-Schüler-Weg;m
+;Q678094;Hans-Thoma-Straße;m
+;;Hansastraße;-
+;Q1585090;Hardenburgstraße;-
+;Q539852;Hardheimer Straße;-
+;Q889064;Harpener Straße;-
+;;Harrlachgärtenweg;-
+;;Harrlachweg;-
+;Q522459;Harzburger Weg;-
+;Q124969;Haselweg;-
+;;Hasenackerstraße;-
+;Q25900;Hasengasse;-
+;Q664857;Haßlocher Straße;-
+;Q57966;Hauffstraße;m
+;;Hauptstraße;
+;;Hauptweg;-
+;Q506856;Hausacher Straße;-
+;;Häuselweg;
+;Q897270;Havellandstraße;-
+;Q35686;Hayes-Street;m
+;Q62512;Hebelstraße;m
+;;Hechtstraße;-
+;Q216025;Heckerstraße;m
+;;Heckweg;
+;Q83154;Heddesheimer Straße;-
+;Q83154;Heddesheimer-Landstraße;-
+;Q2966;Heidelberger Straße;-
+;;Heidestraße;
+;Q715;Heilbronner Straße;-
+;Q751123;Heilsberger Hof;-
+;Q751123;Heilsberger Straße;-
+;Q44403;Heinrich-Heine-Straße;m
+;Q41257;Heinrich-Hertz-Straße;m
+;Q94859663;Heinrich-Hoff-Straße;m
+;Q104281;Heinrich-Lanz-Straße;m
+;Q337263;Heinrich-Pesch-Weg;m
+;Q215482;Heinrich-von-Stephan-Straße;m
+;Q17362776;Heinrich-Wittkamp-Straße;m
+;Q498211;Heinrich-Zille-Straße;m
+;Q71665;Heinz-Haber-Straße;m
+;Q45322631;Helene-Hecht-Ring;w
+;Q185623;Hellebardenweg;-
+;Q20820202;Hellingstraße;-
+;Q45161;Helmertstraße;m
+;Q60024;Helmholtzstraße;m
+;Q1321779;Hemmerstraße;m
+;Q524407;Heppenheimer Straße;-
+;Q65736;Herbert-Albert-Straße;m
+;-;Herbert-Gutfleisch-Weg;m
+;Q91962;Herbert-Maisch-Weg;m
+;Q1314;Herbststraße;-
+;Q21061007;Hermann-Esch-Weg;m
+;Q55674857;Hermann-Gropengießer-Straße;m
+;Q1611432;Hermann-Heimerich-Ufer;m
+;Q25973;Hermann-Hesse-Straße;m
+;Q192145;Hermann-Hollerith-Straße;m
+;Q77486;Hermann-Löns-Straße;m
+;Q1981113;Hermsheimer Straße;-
+;;Herrenalb;
+;Q374242;Herrenalber Straße;-
+;;Herrensand;-
+;Q30198;Herrlachstraße;-
+;;Herrmannstraße;
+;;Herrschaftsgraben;
+;Q825227;Herschelplatz;m
+;Q16145;Hersfelder Straße;-
+;Q201065;Herxheimer Straße;-
+;;Herzogenriedstraße;-
+;Q1615899;Hessische Straße;-
+;;Heumarkt;
+;Q336989;Heustraße;-
+;Q391626;Heydekruger Weg;-
+;;Hiebweg;-
+;Q19720976;Hildegard-Lagrenne-Straße;w
+;;Hinter dem Wolfsberg;-
+;;Hinter den Dorfgärten;-
+;;Hintergasse;-
+;;Hintergereute;-
+;Q23390;Hirschgasse;-
+;Q643634;Hirschhorner Straße;-
+;;Hirschländerweg;-
+;;Hirtenbrunnenstraße;-
+;Q25158437;Hochdorfer Straße;-
+;Q897231;Hochfirststraße;-
+;Q1622382;Hochstättstraße;-
+;Q634819;Höchster Straße;-
+;;Hochuferstraße;-
+;Q8336;Hockenheimer Straße;-
+;Q106571553;Höferstraße;m
+;;Hofgasse;-
+;;Hofgewannstraße;-
+;Q1623114;Hofheimer Straße;-
+;Q15445002;Hofrat-Wild-Straße;m
+;Q378821;Hohensalzaer Straße;-
+;;Höhenstraße;-
+;;Hoher Weg;-
+;;Hohwiesenstraße;
+;;Hohwörthstraße;-
+;Q48319;Holbeinplatz;m
+;Q48319;Holbeinstraße;m
+;Q9041;Hölderlinstraße;m
+;Q25662;Holderweg;-
+;Q102911;Holländerstraße;-
+;Q131448;Holunderstraße;-
+;Q697238;Holzbauerstraße;m
+;;Holzstraße;-
+;;Holzweg;-
+;;Hombuschstraße;-
+;Q158790;Hopfenstraße;-
+;Q881736;Hornbergstraße;-
+;Q650402;Hornisgrindestraße;-
+;Q1651849;Hörselbergstraße;-
+;;Hubenstraße;-
+;Q159834;Hubertusweg;m
+;Q101935;Hugenottenstraße;+
+;Q215747;Hugo-Wolf-Straße;m
+;Q6694;Humboldtstraße;m
+;Q83415;Hüninger Straße;-
+;Q191713;Husarenweg;-
+;;Huthorstweg;-
+;Q2121848;I 1;
+;Q2121848;I 2;
+;Q2121848;I 3;
+;Q2121848;I 4;
+;Q2121848;I 5;
+;Q2121848;I 6;
+;Q2121848;I 7;
+;Q1386709;Ida-Dehmel-Ring;w
+;Q87505;Ida-Ehre-Weg;w
+;Q78873;Ida-Pfeiffer-Straße;w
+;Q81169;Iffezheimer Straße;-
+;Q215115;Ifflandstraße;m
+;Q22972;Iggelheimer Straße;-
+;Q550630;Ihringer Straße;-
+;Q159467;Illerstraße;-
+;Q30097;Iltisweg;-
+;Q22958;Ilvesheimer Straße;-
+;;Im Büchsenschall;
+;;Im Hummelhorst;
+;;Im Kaisergewann;-
+;;Im Morchfeld;
+;;Im Morchhof;-
+;;Im Oberen Falltor;-
+;;Im Pfeifferswörth;
+;;Im Probstgewann;-
+;;Im Rott;-
+;;Im Sennteich;-
+;;Im Stillen Winkel;
+;;Im Wirbel;
+;;Im Wörtel;
+;;Immenweg;
+;;In den Alten Wiesen;
+;;In den Hopfengärten;-
+;;In der Anlage;-
+;;In der Au;-
+;;Industriehafen;
+;;Industriestraße;
+;Q78506;Ingeborg-Bachmann-Straße;w
+;;Inneneck;-
+;;Innere Bogenstraße;
+;;Innere Wingertstraße;
+;;Innerer Heckweg;
+;Q14369;Innstraße;-
+;;Inselstraße;
+;Q5655;Insterburger Weg;-
+;Q156901;Irisweg;-
+;Q271903;Isabelle-Eberhardt-Straße;w
+;Q106588;Isarweg;-
+;Q18218857;Isoldestraße;w
+;Q11815;Itzsteinstraße;m
+;Q11817;Jackson Street;m
+;;Jagdpfad;
+;;Jägerstraße;
+;Q77098;Jahnstraße;m
+;Q106747375;Jakob-Baumann-Straße;m
+;-;Jakob-Bensheimer-Straße;m
+;Q96002385;Jakob-Faulhaber-Straße;m
+;Q1679384;Jakob-Trumpfheller-Straße;m
+;Q11815;James-Monroe-Ring;m
+;-;Janderstraße;m
+;Q82014;Jasminweg;-
+;Q72620;Jean-Becker-Straße;m
+;-;Jean-Moore-Fasse-Ring;w
+;Q107642711;Jechtinger Weg;-
+;Q11812;Jefferson Street;m
+;Q3150;Jenaer Weg;-
+;Q552038;Joachim-Ringelnatz-Straße;m
+;Q1696195;Johann-Schütte-Straße;m
+;-;Johann-Weiß-Straße;m
+;Q1294784;Johannes-Hoffart-Straße;m
+;Q221522;Johannes-von-Nepomuk-Platz;m
+;;Johannesmühler Straße;-
+;Q1698901;Johannisberger Straße;-
+;Q496302;John-Deere-Straße;m
+;Q1499286;Josef-Braun-Ufer;m
+;-;Josef-Bußjäger-Weg;m
+;-;Josef-Rutz-Straße;m
+;Q1124199;Joseph-Bauer-Straße;m
+;Q7349;Joseph-Haydn-Straße;m
+;Q76183;Joseph-Meyer-Straße;m
+;Q246707;Joy-Fleming-Ring;w
+;Q74447;Julius-Hatry-Straße;m
+;Q215630;Julius-Leber-Straße;m
+;Q1713309;Jungbuschbrücke;-
+;Q1713309;Jungbuschstraße;-
+;Q319;Jupiterweg;-
+;Q77896;Jürgen-Fehling-Weg;m
+;Q486541;Jüterboger Weg;-
+;Q107211;Juteweg;-
+;Q2121848;K 1;
+;Q2121848;K 2;
+;Q2121848;K 3;
+;Q2121848;K 4;
+;Q2121848;K 5;
+;Q2121848;K 6;
+;Q2121848;K 7;
+;Q1795296;Käfertaler Steinweg;-
+;Q1795296;Käfertaler Straße;-
+;;Kaiser-Wilhelm-Hafen;
+;-;Kaiserring;+
+;Q701516;Kaiserstuhlring;-
+;;Kaiserwörthweg;-
+;Q22537;Kallstadter Straße;-
+;Q1722544;Kalmitplatz;-
+;Q1722544;Kalmitstraße;-
+;;Kalthorststraße;-
+;Q81722;Kamenzer Straße;-
+;Q9394;Kaninchenweg;-
+;Q9312;Kantstraße;m
+;;Kapellenplatz;-
+;;Kapellenstraße;-
+;;Kappesstraße;-
+;Q124862;Kapuzinerplanken;+
+;Q124862;Kapuzinerplatz;+
+;-;Karl-Schweizer-Park;m
+;Q73126;Karl-Blind-Straße;m
+;Q1730954;Karl-Feuerstein-Straße;m
+;Q123459;Karl-Imhoff-Straße;m
+;Q224203;Karl-Kuntz-Weg;m
+;Q1039328;Karl-Ladenburg-Straße;m
+;Q1039328;Karl-Ladenburg-Straßen;m
+;Q1732234;Karl-Ludwig-Straße;m
+;Q9061;Karl-Marx-Straße;m
+;Q87144;Karl-Mathy-Straße;m
+;Q12478384;Karl-Schwaner-Straße;m
+;-;Karl-Traub-Straße;m
+;Q45255;Karl-Valentin-Straße;m
+;Q6373901;Karlsberger Weg;-
+;Q1733560;Karlsplatz;m
+;Q1040;Karlsruher Straße;-
+;Q44961;Karlstern;m
+;Q44961;Karlsternstraße;m
+;Q133602;Karolingerweg;+
+;Q81110;Karpfenstraße;-
+;Q2865;Kasseler Straße;-
+;;Kastanienallee;
+;;Kastanienstraße;
+;;Katharinenstraße;
+;Q142472;Käthe-Kollwitz-Straße;w
+;Q588;Kattowitzer Zeile;-
+;Q15979;Kehler Straße;-
+;Q58697;Keilerweg;-
+;;Kellereistraße;-
+;Q35966;Keltenstraße;+
+;Q8963;Keplerstraße;m
+;Q22959;Ketscher Ring;-
+;Q626805;Kettelerweg;m
+;;Kiebitzweg;-
+;Q12024;Kiefernstraße;-
+;;Kieselgrund;
+;;Kiesteichweg;-
+;Q700095;Kinzigstraße;-
+;;Kirchenstraße;-
+;Q1257704;Kirchgasse;-
+;Q60052;Kirchhoffstraße;m
+;Q759629;Kirchpfad;-
+;Q1386830;Kirchplatz;-
+;Q1533045;Kirchwaldstraße;-
+;Q45786603;Kirschgartshäuser Straße;-
+;Q101538;Kleestraße;-
+;Q101538;Kleestraße;-
+;;Kleine Adlerstraße;-
+;;Kleine Riedstraße;-
+;;Kleine Schwanengasse;-
+;;Kleine Straße;-
+;;Kleiner Anfang;-
+;;Kleinfeldstraße;-
+;;Kleingehrenstraße;-
+;Q28494;Kleiststraße;m
+;Q502934;Klingenberger Straße;-
+;-;Kloppenheimer Brücke;-
+;-;Kloppenheimer Straße;-
+;;Knick;-
+;;Knie;-
+;Q1342341;Kniebisstraße;-
+;Q1167664;Kobellstraße;m
+;Q3104;Koblenzer Straße;-
+;Q257264;Kochelseeweg;-
+;Q24489;Kohlenstraße;-
+;Q130994;Kolmarer Straße;-
+;Q60619;Kolpingstraße;m
+;Q3559;Kometenweg;-
+;Q282991;Königsbacher Straße;-
+;Q1829;Königsberger Allee;-
+;Q1796381;Königshofer Straße;-
+;Q156715;Königsseestraße;-
+;Q569661;Königsteiner Straße;-
+;Q740241;Konitzer Weg;-
+;Q313183;Konrad-Witz-Straße;m
+;Q60093;Konrad-Zuse-Ring;m
+;Q3834;Konstanzer Straße;-
+;Q1544075;Konzstraße;m
+;Q619;Kopernikusstraße;m
+;;Korbangel;-
+;Q3901247;Kormoranstraße;-
+;Q156921;Kornblumenstraße;-
+;Q62344;Körnerstraße;m
+;Q1796771;Köthener Weg;-
+;Q77082;Krafft-Ebing-Straße;m
+;Q43365;Krähenflügel;-
+;Q43365;Krähenflügelweg;-
+;Q43365;Krähenweg;-
+;Q25365;Kranichweg;-
+;Q983729;Krappitzer Straße;-
+;Q163641;Krappmühlstraße;-
+;;Krautgartenweg;-
+;Q539659;Krautheimer Straße;-
+;;Kreuzstraße;
+;;Kreuzweg;
+;-;Kriegerstraße;-
+;Q157806;Krokusweg;-
+;Q569634;Kronberger Straße;-
+;Q1789858;Kronenburgstraße;-
+;;Kronenstraße;
+;Q1790038;Kropsburgstraße;-
+;Q105569;Krügerstraße;m
+;Q26381;Kuckucksplatz;-
+;;Kugelfangweg;-
+;;Kuhbrunnenweg;
+;Q161962;Kulmer Straße;-
+;Q61711;Külsheimer Straße;-
+;-;Kupferstraße;-
+;Q1539728;Kurpfalzbrücke;-
+;Q22880;Kurpfalzstraße;-
+;;Kurzgewannstraße;-
+;Q63005;Kußmaulstraße;m
+;Q2121848;L 1;
+;Q2121848;L 2;
+;Q2121848;L 3;
+;Q2121848;L 4;
+;Q2121848;L 5;
+;Q2121848;L 6;
+;Q2121848;L 7;
+;Q2121848;L 8;
+;Q2121848;L 9;
+;Q2121848;L 10;
+;Q2121848;L 11;
+;Q2121848;L 12;
+;Q2121848;L 13;
+;Q2121848;L 14;
+;Q2121848;L 15;
+;Q527058;Lachnerstraße;m
+;Q83225;Ladenburger Straße;-
+;Q97384104;Lafettenweg;-
+;;Lagerstraße;
+;Q103148;Lahnstraße;-
+;Q7039;Lahrer Straße;-
+;Q98878;Lameygarten;m
+;Q98878;Lameystraße;m
+;Q16099;Lampertheimer Straße;-
+;Q156733;Landsknechtweg;+
+;;Landteilstraße;-
+;;Landwehrstraße;-
+;;Landzungenstraße;-
+;;Lange Allee;-
+;;Lange Rötterstraße;-
+;;Langer Schlag;-
+;;Langer Schlag;-
+;;Langgewannweg;-
+;;Langlachweg;-
+;;Langstraße;-
+;Q75784;Lassalleplatz;m
+;Q75784;Lassallestraße;m
+;Q1885700;Laubenheimer Straße;-
+;Q81620;Laudenbacher Straße;-
+;Q1460689;Lauergärten;m
+;Q525720;Lauffener Straße;-
+;;Laurentiusstraße;-
+;Q22435;Lauterburger Straße;-
+;Q155841;Lechstraße;-
+;Q704661;Leiblstraße;m
+;Q9047;Leibnizstraße;m
+;Q161100;Leinenstraße;-
+;;Leinpfad;-
+;Q2079;Leipziger Straße;-
+;Q326370;Leistadter Straße;-
+;-;Lemaitrestraße;m
+;Q21323;Lembacher Straße;-
+;Q1816895;Lemle-Moses-Straße;m
+;Q1817313;Lena-Maurer-Platz;w
+;Q84280;Lenaustraße;
+;Q494708;Leo-Sternbach-Straße;m
+;-;Leoniweg;+
+;Q29858;Lerchenstraße;-
+;Q34628;Lessingstraße;m
+;Q109448;Lettestraße;m
+;Q159046;Levkojenweg;-
+;;Lichte Zeile;-
+;Q550859;Lichtenauer Straße;-
+;;Liebfrauenstraße;
+;Q16571;Liebigstraße;m
+;Q753099;Ligusterweg;-
+;;Lilienstraße;
+;Q57162;Lilienthalstraße;m
+;Q632421;Limbacher Straße;-
+;Q572384;Limburgstraße;-
+;Q108776153;Lina-Kehl-Weg;w
+;Q91;Lincoln Avenue;m
+;;Lindenhofplatz;-
+;;Lindenhofstraße;-
+;;Lindenstraße;
+;;Linsenbühlweg;
+;Q124098726;Lisette-Hatzfeld-Platz;w
+;Q52892;Lissaer Weg;-
+;Q113512474;Logauweg;m
+;Q3459538;Lohengrinstraße;m
+;Q6855;Lörracher Straße;-
+;Q524939;Lorscher Straße;-
+;Q154203;Lortzingstraße;m
+;Q500260;Loslauer Weg;-
+;Q841356;Lötzener Weg;-
+;;Löwenstraße;
+;Q60242519;Löwitstraße;m
+;Q191748;Lucas-Cranach-Straße;m
+;Q68093;Ludolf-Krehl-Platz;
+;Q68093;Ludolf-Krehl-Straße;
+;Q57170;Ludwig-Beck-Straße;m
+;Q90291;Ludwig-Frank-Straße;m
+;Q1874615;Ludwig-Jolly-Straße;m
+;Q96072418;Ludwig-Neischwander-Weg;m
+;Q1874894;Ludwig-Ratzel-Straße;m
+;Q551896;Ludwig-Richter-Straße;m
+;Q1874915;Ludwig-Roebel-Straße;m
+;;Ludwigsbadstraße;-
+;Q2910;Ludwigshafener Straße;-
+;-;Luftschifferstraße;-
+;Q168664;Luisenring;w
+;Q168664;Luisenstraße;w
+;Q156811;Lupinenstraße;-
+;Q9554;Lutherstraße;m
+;Q63965;Lützowstraße;m
+;-;Luzenbergstraße;-
+;Q2121848;M 1;
+;Q2121848;M 2;
+;Q2121848;M 3;
+;Q2121848;M 4;
+;Q2121848;M 5;
+;Q2121848;M 6;
+;Q2121848;M 7;
+;Q61910895;Mabel-Grammer-Ring;w
+;Q1883297;Madenburgstraße;-
+;Q1733;Magdeburger Straße;-
+;;Magnolienweg;
+;;Maiblumenhof;
+;;Maienweg;
+;Q22969;Maikammerstraße;-
+;-;Main-Neckar-Bahn-Straße;-
+;Q165401;Mainauer Weg;-
+;Q1670;Mainstraße;-
+;;Mallaustraße;-
+;;Mallauweg;-
+;Q147325;Malvenweg;-
+;Q152024;Malzstraße;-
+;Q2119;Mannheimer Straße;-
+;Q502926;Mansfelder Weg;-
+;Q3869;Marburger Straße;-
+;Q6101;Marco-Polo-Straße;m
+;Q1304302;Marcobrunnerstraße;-
+;Q36488;Marconistraße;m
+;Q25437;Marderweg;-
+;Q1467449;Marguerrestraße;m
+;Q77511;Maria-Kirch-Straße;w
+;Q1741152;Maria-Rigel-Straße;w
+;Q1896297;Maria-Scherer-Straße;w
+;Q75463;Marianne-Cohn-Straße;w
+;Q1897249;Marie-Bernays-Platz;w
+;Q7186;Marie-Curie-Straße;w
+;Q146820;Marienburger Straße;-
+;Q326582;Marienwerderweg;-
+;;Märker Querschlag;
+;Q2566474;Marketenderweg;+
+;Q500400;Markircher Straße;-
+;Q19996517;Marktplatz;-
+;;Marktplatz;-
+;Q19996517;Marktstraße;-
+;Q111;Marsweg;-
+;-;Martin-Lutz-Platz;m
+;Q133704;Martinistraße;m
+;Q77127;Mary-Wigman-Straße;w
+;Q22829;Maudacher Straße;-
+;;Mauerstraße;
+;Q58978;Max-Born-Straße;m
+;Q1912455;Max-Enderlin-Straße;m
+;Q115483;Max-Frisch-Straße;m
+;Q16509011;Max-Hachenburg-Straße;m
+;Q77874;Max-Josef-Metzger-Straße;m
+;Q44319;Max-Joseph-Straße;m
+;Q9021;Max-Planck-Straße;m
+;Q19963201;Max-von-Seubert-Straße;m
+;Q95993651;Max-Winterhalter-Ring;m
+;Q1913735;Maxauer Straße;-
+;Q523286;Maxburgstraße;-
+;Q566946;Maxdorfer Straße;-
+;Q44319;Maximilianstraße;m
+;;Maxstraße;
+;Q77125;Maybachstraße;m
+;Q660438;Meckenheimer Straße;-
+;Q77464;Medicusstraße;m
+;;Meeräckerplatz;-
+;;Meeräckerstraße;-
+;;Meerfeldstraße;-
+;;Meerlachstraße;-
+;Q498212;Meersburger Straße;-
+;;Meerwiesenstraße;-
+;Q487278;Meininger Weg;-
+;Q8738;Meißener Weg;-
+;Q1057436;Meistersingerstraße;+
+;Q76325;Melanchthonstraße;m
+;Q76325;Melanchthonweg;m
+;Q1695799;Melchiorstraße;m
+;Q776965;Memeler Straße;-
+;Q164961;Menzelstraße;m
+;Q308;Merkurweg;-
+;Q59488;Merowingerstraße;+
+;Q16130;Merziger Straße;-
+;Q82724;Meßkircher Straße;-
+;Q131136;Meteorweg;-
+;Q543627;Mettlacher Straße;-
+;Q22690;Metzer Straße;-
+;Q94885207;Michael-Bitterich-Weg;m
+;Q516517;Michelstadter Straße;-
+;Q502681;Miltenberger Straße;-
+;Q1937316;Minneburgstraße;-
+;;Mittelried;
+;;Mittelstraße;
+;;Mittelweg;
+;Q1247247;Möhlstraße;m
+;;Mohnäckerstraße;
+;Q1612159;Molkenbuhrstraße;m
+;Q1289345;Mollstraße;m
+;Q22697;Molsheimer Straße;-
+;Q44205;Moltkestraße;m
+;Q157550;Mönchplatz;-
+;Q157550;Mönchstraße;-
+;;Mönchwörthstraße;-
+;;Mondgasse;
+;Q11815;Monroe Street;m
+;;Moosgasse;
+;;Morchfeldstraße;-
+;;Morgenröte;
+;Q63699;Mörikestraße;m
+;Q23008;Mosbacher Straße;-
+;Q1667;Moselstraße;-
+;;Möwenstraße;
+;Q254;Mozartstraße;m
+;Q545231;Mudauer Ring;-
+;;Mühlaubrücke;-
+;;Mühlaugrün;
+;Q4310067;Mühldorfer Straße;m
+;Q44494;Mühlenstraße;-
+;;Mühlfeld;-
+;;Mühlweg;
+;Q79815;Mülhauser Straße;-
+;Q79815;Mülhauser Winkel;-
+;Q2899;Mülheimer Straße;-
+;;Münchwälderstraße;-
+;Q1952690;Mundenheimer Straße;-
+;Q464780;Münzplatz;-
+;Q685327;Murgstraße;-
+;Q882079;Museumsstraße;-
+;Q178243;Musketenweg;-
+;Q10764833;Mußbacher Straße;-
+;Q657074;Mutterstadter Platz;-
+;Q657074;Mutterstadter Straße;-
+;Q2121848;N 1;
+;Q2121848;N 2;
+;Q2121848;N 3;
+;Q2121848;N 4;
+;Q2121848;N 5;
+;Q2121848;N 6;
+;Q2121848;N 7;
+;Q1731271;Nadlerstraße;m
+;Q168696;Nahestraße;-
+;Q29465;Narzissenweg;-
+;Q16105;Nauheimer Straße;-
+;Q76811;Naumannstraße;m
+;Q15986;Naumburger Weg;-
+;Q214591;Nebeniusstraße;m
+;Q1973682;Neckarauer Straße;-
+;Q1973682;Neckarauer Waldweg;-
+;;Neckargrün;-
+;Q81099;Neckarhauser Straße;-
+;;Neckarplatt;-
+;;Neckarpromenade;
+;Q1673;Neckarspitze;-
+;Q1673;Neckarstraße;-
+;Q1673;Neckarvorlandbrücke;-
+;Q1673;Neckarvorlandstraße;-
+;Q156099;Nelkenstraße;-
+;Q654;Neonstraße;-
+;;Neudammstraße;
+;Q122332;Neudorfstraße;-
+;;Neue Heimat;
+;;Neue Poststraße;
+;;Neueichwaldstraße;-
+;;Neuer Meßplatz;
+;;Neues Leben;
+;;Neugasse;
+;Q553863;Neuhofer Straße;-
+;;Neumarkt;
+;Q67471;Neumayerstraße;m
+;Q6880;Neunkircher Straße;-
+;Q1981113;Neuostheimer Straße;-
+;;Neurottstraße;-
+;Q4149;Neustadter Straße;-
+;Q20352;Neustrelitzer Weg;-
+;;Neuwaldgrenzweg;
+;Q115933087;Nibelungenring;-
+;Q21387;Niederbronner Straße;-
+;;Niederbrücklplatz;-
+;;Niederfeldstraße;-
+;;Niederfeldweg I;-
+;;Niederfeldweg II;-
+;;Niederfeldweg III;-
+;;Niederfeldweg IV;-
+;;Niederfeldweg V;-
+;Q680403;Niersteiner Straße;-
+;Q9358;Nietzschestraße;m
+;Q75782;Nikolaus-Otto-Straße;m
+;Q157550;Nonnenstraße;-
+;Q7033;Nordhäuser Weg;-
+;Q83418;Normannenstraße;+
+;Q628095;Nürburgstraße;-
+;;Nußbaumweg;
+;-;Nüßlepfad;m
+;Q2121848;O 1;
+;Q2121848;O 2;
+;Q2121848;O 3;
+;Q2121848;O 4;
+;Q2121848;O 5;
+;Q2121848;O 6;
+;Q2121848;O 7;
+;Q1676741;Oberbergener Straße;-
+;Q1605768;Obere Clignetstraße;m
+;;Obere Riedstraße;-
+;;Oberer Bruchrand;-
+;;Oberes Ringgäßchen;
+;;Obergasse;-
+;Q541381;Oberkircher Straße;-
+;Q75889;Oberlinweg;m
+;;Oberneugasse;
+;Q885299;Oberrotweiler Straße;-
+;;Obhut;
+;Q143970;Obstgartenweg;-
+;Q8359;Odenwaldstraße;-
+;Q3042;Offenbacher Straße;-
+;Q4044;Offenburger Straße;-
+;Q81862;Oftersheimer Straße;-
+;Q336989;Öhmdstraße;-
+;Q1585;Ohmweg;m
+;Q15110396;Ölhafenstraße;-
+;Q60946;Opitzstraße;m
+;Q212334;Oppauer Kreuzweg;-
+;Q212334;Oppauer Straße;-
+;Q953181;Ortelsburger Straße;-
+;Q8191;Ortenaustraße;-
+;;Ortsstraße;-
+;-;Oskar-Meixner-Straße;m
+;Q76456;Oskar-von-Miller-Straße;m
+;;Ostallee;
+;Q529154;Osterburker Straße;-
+;Q899751;Osteroder Weg;-
+;;Osterstraße;-
+;Q47004109;Östliche Bahnstraße;-
+;;Östlicher Riedbahnweg;
+;;Oswaldstraße;
+;Q533667;Ottenhöfer Straße;-
+;Q23035;Otterstadter Straße;-
+;Q213701;Ottmar-Mergenthaler-Straße;m
+;Q2038203;Otto-Beck-Straße;m
+;Q57065;Otto-Hahn-Straße;m
+;-;Otto-Meißner-Weg;m
+;Q74856;Otto-Selz-Straße;m
+;Q701770;Otto-Siffling-Straße;m
+;Q2121848;P 1;
+;Q2121848;P 2;
+;Q2121848;P 3;
+;Q2121848;P 4;
+;Q2121848;P 5;
+;Q2121848;P 6;
+;Q2121848;P 7;
+;Q25356;Pappelallee;-
+;Q25356;Pappelallee;-
+;;Paradeplatz;-
+;;Parkau;
+;;Parkring;-
+;Q86573;Parsevalstraße;m
+;Q76331;Paul-Gerhardt-Straße;m
+;Q2061155;Paul-Martin-Ufer;m
+;Q2062311;Paul-Schreck-Platz;m
+;Q94856015;Paul-Wittsack-Straße;m
+;;Paulusbergstraße;-
+;Q21359;Pechelbronner Straße;-
+;Q2150362;Perreystraße;m
+;Q105428;Pestalozzistraße;m
+;Q93841;Peter-Rosegger-Straße;m
+;Q1493680;Petersauer Straße;-
+;Q1477611;Peterskopfstraße;-
+;Q44993;Pettenkoferstraße;m
+;Q22160;Pfalzburger Straße;-
+;Q22932;Pfalzgrafenstraße;+
+;Q326359;Pfalzplatz;-
+;Q326359;Pfalzstraße;-
+;-;Pfarrer-Egger-Strasse;m
+;;Pfarrgasse;
+;Q61865;Pfauengasse;-
+;;Pfeilstraße;
+;;Pfingstbergplatz;-
+;;Pfingstbergstraße;-
+;;Pfingstweidstraße;-
+;;Pflügersgrundstraße;-
+;;Pflugstraße;
+;Q3046;Pforzheimer Straße;-
+;Q516500;Pfungstadter Straße;-
+;Q96032344;Philipp-Brunnemer-Weg;m
+;Q541161;Philippsburger Weg;-
+;Q4964182;Philosophenplatz;+
+;Q316227;Pigagestraße;m
+;Q5660;Pillauer Straße;-
+;Q6477;Pirnaer Straße;-
+;Q25388;Pirolweg;-
+;Q634;Planetenweg;-
+;Q81959;Plankstadter Straße;-
+;;Plattstraße;-
+;;Platz der Freundschaft;
+;Q3952;Plauener Weg;-
+;;Plinaustraße;-
+;Q1933065;Plittersdorfer Straße;-
+;Q104520;Pommernstraße;-
+;Q268;Posener Platz;-
+;Q268;Posener Straße;-
+;;Posthornweg;
+;;Poststraße;
+;Q1711;Potsdamer Weg;-
+;-;Pozzistraße;m
+;;Preßkammstraße;
+;Q164072;Priebuser Straße;-
+;;Promenadenweg;-
+;Q149322;Pulversheimer Straße;-
+;;Pumpwerkstraße;-
+;;Pyramidenstraße;-
+;Q2121848;Q 1;
+;Q2121848;Q 2;
+;Q2121848;Q 3;
+;Q2121848;Q 4;
+;Q2121848;Q 1;
+;Q2121848;Q 2;
+;Q2121848;Q 3;
+;Q40623;Quedlinburger Weg;-
+;;Querstraße;
+;Q2121848;R 1;
+;Q2121848;R 2;
+;Q2121848;R 3;
+;Q2121848;R 4;
+;Q2121848;R 5;
+;Q2121848;R 6;
+;Q2121848;R 7;
+;Q1605775;Rabbiner-Grünewald-Platz;m
+;Q43365;Rabengasse;-
+;Q81729;Radeberger Straße;-
+;;Radfahrweg;
+;Q1287269;Rahnfelsstraße;-
+;Q753099;Rainweidenstraße;-
+;;Rampenweg;
+;Q148483;Rappoltsweilerstraße;-
+;Q148483;Rappoltsweilerwinkel;-
+;Q6874;Rastatter Straße;-
+;Q319397;Rastenburger Straße;-
+;-;Rathausstraße;-
+;Q135645;Rathenaustraße;m
+;;Ratsschreibergasse;
+;;Raupenweg;
+;;Rebenstraße;
+;Q26106;Rebhuhnstraße;-
+;Q124711016;Regattastraße;-
+;;Regenbogen;
+;;Regenweg;
+;Q122069;Rehpfad;-
+;Q122069;Rehschneise;-
+;Q69736;Reichenbachstraße;m
+;Q21298;Reichshofer Straße;-
+;Q57158;Reichskanzler-Müller-Straße;m
+;Q18789;Reiherplatz;-
+;Q18789;Reiherstraße;-
+;Q81913;Reilinger Weg;-
+;Q179226;Reiterweg;-
+;Q134738428;Relaisstraße;-
+;Q534613;Renchener Straße;-
+;Q64341;Renée-Sintenis-Weg;w
+;-;Rennershofstraße;m
+;Q94764086;Renzstraße;m
+;Q67036;Rethelstraße;m
+;Q2147550;Rheinauer Ring;-
+;Q1567807;Rheinauhafen;-
+;Q2147550;Rheinaustraße;-
+;Q584;Rheinbadweg;-
+;;Rheindammstraße;
+;Q16077;Rheinfelder Straße;-
+;;Rheingärtenstraße;
+;Q1678073;Rheingoldplatz;-
+;Q1678074;Rheingoldstraße;-
+;Q995018;Rheingönheimer Straße;-
+;Q1013661;Rheinhäuser Straße;-
+;;Rheinkaistraße;
+;;Rheinmühlenstraße;
+;-;Rheinparkstraße;-
+;;Rheinpromenade;
+;;Rheinrottstraße;-
+;Q584;Rheinstraße;-
+;Q318849;Rheintalbahnstraße;-
+;Q1639498;Rheintöchterstraße;+
+;;Rheinvillenstraße;
+;;Rheinvorlandstraße;
+;;Rheinwiesenstraße;-
+;Q107359789;Rhenaniastraße;-
+;Q98545;Richard-Lenel-Straße;m
+;;Richard-Wagner-Straße;m
+;Q84704;Rickertstraße;m
+;;Riedfeldstraße;-
+;;Riedgärtenstraße;-
+;;Riedlach;-
+;;Riedspitze;-
+;;Riedweg;-
+;Q557790;Riegeler Weg;-
+;Q8775;Riesaer Weg;-
+;Q456471;Rieslingweg;-
+;;Riestenweg;
+;Q1400792;Rietburgstraße;-
+;Q76483;Rilkestraße;m
+;Q184453;Rindenweg;-
+;;Ringstraße;
+;Q21315;Rittershofener Straße;-
+;Q214977;Robert-Blum-Straße;m
+;-;Robert-Funari-Straße;m
+;Q96056485;Robert-Schmoll-Weg;m
+;Q472943;Robinienstraße;-
+;Q12099;Roggenplatz;-
+;Q12099;Roggenstraße;-
+;Q106777660;Rohrhofer Straße;-
+;;Rohrlachstraße;-
+;;Rollbühlstraße;-
+;Q213810;Römerstraße;+
+;;Rondellplatz;
+;;Rondellstraße;
+;Q35149;Röntgenstraße;m
+;Q77281;Roonstraße;m
+;Q7231;Rosa-Luxemburg-Park;w
+;;Rosengartenplatz;-
+;;Rosenstraße;
+;Q822148;Roßlauer Weg;-
+;Q2861;Rostocker Weg;-
+;Q1281102;Rotdornweg;-
+;Q147525;Roteichenplatz;-
+;Q147525;Roteichenring;-
+;;Rothlochweg;
+;Q145992;Rottannenhof;-
+;Q145992;Rottannenweg;-
+;Q34370;Rotterdamer Straße;-
+;;Rottfeldstraße;-
+;Q647805;Rottmannweg;m
+;Q47469527;Roxheimer Straße;-
+;Q22556;Ruchheimer Weg;-
+;Q60644;Rückertstraße;m
+;Q628118;Rüdesheimer Straße;-
+;Q2172005;Rudi-Baerwind-Platz;m
+;Q12674;Rudolf-Diesel-Straße;m
+;Q95961605;Rudolf-Langendorf-Straße;m
+;Q2173404;Rudolf-Maus-Straße;m
+;Q517107;Rudolstadter Weg;-
+;Q3237;Rügener Weg;-
+;Q127660;Ruhrorter Straße;-
+;Q1664;Ruhrstraße;-
+;Q617940;Ruppertsberger Straße;-
+;Q4031;Rüsselsheimer Straße;-
+;Q2121848;S 1;
+;Q2121848;S 2;
+;Q2121848;S 3;
+;Q2121848;S 4;
+;Q2121848;S 5;
+;Q2121848;S 6;
+;Q155984;Saalfelder Weg;-
+;Q1724;Saarbrücker Straße;-
+;Q22544;Saarburger Ring;-
+;Q1202;Sachsenstraße;-
+;;Sackgasse;
+;Q522362;Säckinger Straße;-
+;Q2796766;Salmenstraße;-
+;Q152661;Salzachstraße;-
+;Q486985;Salzwedeler Weg;-
+;;Sammelbahnhof;
+;Q1737297;Sandhofer Straße;-
+;;Sandrain;-
+;;Sandtorfer Allee;
+;Q14907;Sankt-Ingberter-Straße;-
+;Q1318188;Sankt-Peter-und-Paul-Straße;-
+;"Q536022;Q632868";Sasbacher Straße;-
+;Q494631;Saßnitzer Weg;-
+;Q193;Saturnweg;-
+;;Saupferchweg;
+;;Scarrastraße;-
+;;Schaafeckweg;-
+;;Schafscheuerstraße;-
+;;Schafweide;-
+;Q1265535;Schanzenstraße;-
+;;Schanzenweg;
+;Q1737297;Scharhofer Straße;-
+;Q170340;Scharnhorststraße;m
+;Q2231897;Schauenburgweg;-
+;Q650549;Schauinslandstraße;-
+;Q9082;Scheffelstraße;m
+;Q552240;Schefflenzer Straße;-
+;;Scheidhorststraße;-
+;Q60070;Schellingstraße;m
+;Q71616;Schenkendorfstraße;m
+;;Schienenstraße;-
+;Q519477;Schienenweg;-
+;Q23002;Schifferstadter Straße;-
+;Q1768259;Schildkrötstraße;-
+;Q22670;Schillerplatz;m
+;Q22670;Schillerstraße;m
+;Q65402;Schimperstraße;m
+;;Schindkautweg;-
+;;Schlachthofstraße;-
+;Q129018;Schlehenweg;-
+;Q76576;Schleiermacherstraße;m
+;Q22737;Schlettstadter Straße;-
+;;Schleusenweg;-
+;Q1758623;Schlierbacher Straße;-
+;Q834157;Schlierseeweg;-
+;Q881889;Schliffkopfstraße;-
+;;Schlittweg;
+;;Schlossergasse;
+;;Schloßgartendamm;-
+;;Schmiedgasse;
+;Q70102;Schmitzstraße;m
+;Q57941;Schneeberger Straße;-
+;Q556200;Schneidemühler Straße;-
+;Q1776013;Schönauer Straße;-
+;Q38193;Schopenhauerstraße;m
+;Q61734;Schopfheimer Straße;-
+;Q37577;Schöpflinstraße;m
+;Q82886;Schramberger Winkel;-
+;Q2033971;Schreiberstraße;m
+;;Schreinergasse;
+;Q83292;Schriesheimer Straße;-
+;Q7312;Schubertstraße;m
+;;Schulstraße;
+;;Schulzenstraße;
+;Q7351;Schumannstraße;m
+;;Schützenstraße;
+;Q19963189;Schwabenheimer Straße;-
+;;Schwabenstraße;-
+;Q522541;Schwalbacher Straße;-
+;Q39861;Schwalbenstraße;-
+;Q39861;Schwalbenstraße;-
+;Q29564928;Schwanenstraße;-
+;Q57953;Schwarzenberger Straße;-
+;;Schwarzer Weg;
+;Q4204;Schwarzwaldstraße;-
+;Q39;Schweizerstraße;-
+;Q1709;Schweriner Weg;-
+;Q3232;Schwetzinger Landstraße;-
+;Q3232;Schwetzinger Platz;-
+;Q3232;Schwetzinger Straße;-
+;Q551901;Schwindstraße;m
+;;Schwingstraße;-
+;Q553224;Seckacher Straße;-
+;Q2263743;Seckenheimer Hauptstraße;-
+;Q2263744;Seckenheimer Landstraße;-
+;Q2263745;Seckenheimer Straße;-
+;Q184371;Sedanstraße;-
+;Q37681;Seidenstraße;-
+;;Seilerstraße;-
+;;Sennteichplatz;-
+;Q745085;Sensburger Weg;-
+;Q49139191;Sentastraße;w
+;Q157820;Seppl-Herbeger-Platz;m
+;Q62530;Sibylla-Merian-Straße;w
+;Q39473;Siebenbürger Straße;-
+;-;Siebseeschneise;-
+;-;Siebseeweg;-
+;;Siedlerpfad;
+;"Q50813849;Q537554";Siegfriedstraße;m
+;Q152484;Siegstraße;-
+;Q58577;Siemensstraße;m
+;Q2285017;Sigmund-Schott-Straße;m
+;Q95632;Sigmund-Schuckert-Straße;m
+;Q107313754;Sigrid-Hackbarth-Straße;w
+;Q146269;Silberpappelschneise;-
+;Q11269;Silvesterplatz;-
+;Q11269;Silvesterstraße;-
+;Q6979;Singener Weg;-
+;Q14950;Sinsheimer Straße;-
+;Q847423;Sisalweg;-
+;Q393171;Sohrauer Straße;-
+;Q101275;Soironstraße;m
+;Q4991371;Soldatenweg;+
+;Q704681;Soldnerstraße;m
+;Q1313;Sommerstraße;-
+;Q21179;Sonderburger Straße;-
+;Q123322190;Sonnenschein;-
+;Q525;Sonnenstraße;-
+;;Sonnige Au;
+;Q241254;Sophienstraße;w
+;Q2853420;Spargelweg;-
+;Q216642;Spatenstraße;-
+;;Speckweg;-
+;;Spelzenstraße;-
+;Q25380;Sperbergasse;-
+;Q28922;Sperlingweg;-
+;Q182470;Spessartstraße;-
+;Q6829;Speyerer Straße;-
+;Q678565;Spiegelfabrik;-
+;Q678565;Spiegelstraße;-
+;Q11875349;Spielgäßchen;-
+;Q519840;Spindelweg;-
+;Q117353707;Spinelliplatz;m
+;;Spinnereistraße;-
+;Q35802;Spinozastraße;m
+;;Sporwörthplatz;-
+;;Sporwörthstraße;-
+;Q148859;Spreewaldallee;-
+;Q2325435;Stabhalterstraße;m
+;Q278982;Staffelseeweg;-
+;Q156033;Stamitzstraße;m
+;;Stangenbrunnenweg;
+;Q185237;Starengasse;-
+;Q106268;Stargarder Weg;-
+;;Starke Hoffnung;-
+;Q2332865;Starkenburgweg;-
+;Q61936;Starnberger Weg;-
+;Q185237;Starreihe;-
+;Q525409;Staßfurter Weg;-
+;Q519477;Stationsstraße;-
+;Q1369438;Staudenweg;-
+;Q528062;Staufener Straße;-
+;Q63434;Stegerwaldweg;m
+;Q1014121;Steinsburgweg;-
+;;Steinstraße;-
+;;Steinweg;-
+;Q1389503;Steinzeugstraße;-
+;-;Stempelpark;m
+;Q7082;Stendaler Weg;-
+;Q1484458;Stengelhofstraße;m
+;Q1484458;Stengelstraße;m
+;Q62024;Stephanienstraße;w
+;Q62024;Stephanienufer;w
+;;Stern;-
+;Q523;Sternengasse;-
+;;Sternstraße;-
+;Q393;Stettiner Straße;-
+;Q25418;Stieglitzgasse;-
+;;Stiller Weg;-
+;Q61752;Stockacher Straße;-
+;Q117025097;Stockhornstraße;m
+;Q4068;Stolberger Straße;-
+;Q1014146;Stolzeneckstraße;-
+;Q124806;Stolzestraße;m
+;Q1635753;Stotzstraße;m
+;Q2352985;Strahlenburgstraße;-
+;Q4065;Stralsunder Weg;-
+;;Strandbadweg;-
+;Q6602;Straßburger Ring;-
+;Q1648560;Straßenheimer Weg;-
+;Q103955;Stresemannstraße;m
+;Q213794;Struvestraße;m
+;Q110871;Suckowstraße;m
+;Q152131;Sudetenstraße;-
+;Q2263743;Suebenheimer Allee;-
+;Q2263743;Suebenstraße;-
+;Q22437;Sufflenheimer Straße;-
+;Q14891;Suhler Weg;-
+;;Suhlschneise;-
+;Q2365032;Sulzbacher Straße;-
+;Q501798;Sulzer Straße;-
+;Q108564999;Sundgauanlage;-
+;Q23051;Swanseaplatz;-
+;Q3107;Sylter Weg;-
+;Q2121848;T 1;
+;Q2121848;T 2;
+;Q2121848;T 3;
+;Q2121848;T 4;
+;Q2121848;T 5;
+;Q2121848;T 6;
+;Q8336;Talhausring;-
+;;Talstraße;-
+;Q11404;Tambourweg;-
+;Q25350;Tannenstraße;-
+;"Q54997267;Q810443";Tannhäuserring;m
+;Q329833;Tarnowitzer Weg;-
+;Q2150731;Tattersall;m
+;Q2150731;Tattersallstraße;m
+;Q10856;Taubenstraße;-
+;Q61724;Tauberbischofsheimer Straße;-
+;Q177480;Taubergrund;-
+;Q177480;Tauberstraße;-
+;Q158884;Taunusplatz;-
+;Q253971;Tegernseeweg;-
+;Q179674;Teutonenring;+
+;Q77814;Theodor-Fliedner-Weg;m
+;Q2594;Theodor-Heuss-Anlage;m
+;Q2417909;Theodor-Kutzer-Ufer;m
+;Q26993;Theodor-Storm-Straße;m
+;Q2419560;Therese-Blase-Straße;w
+;Q11812;Thomas-Jefferson-Straße;m
+;Q37030;Thomas-Mann-Straße;m
+;Q47554;Thorner Straße;-
+;Q1205;Thüringer Straße;-
+;Q57239;Tieckstraße;m
+;Q2431829;Tiefburgweg;-
+;Q24006627;Tillessenstraße;m
+;Q5647;Tilsiter Straße;-
+;Q700097;Titiseestraße;-
+;Q3223979;Tonderner Weg;-
+;-;Toräckerstraße;-
+;Q12062;Torgauer Weg;-
+;;Torweg;-
+;;Torwiesenstraße;-
+;Q44160;Toulonplatz;-
+;Q1580180;Traitteurstraße;m
+;Q756654;Traminerweg;-
+;Q10978;Traubenstraße;-
+;Q664341;Traunstraße;-
+;;Trautenfeldstraße;-
+;Q83271;Triberger Ring;-
+;Q3138;Trierer Straße;-
+;Q559202;Trifelsstraße;-
+;"Q2454177;Q55002177";Tristanstraße;m
+;Q1766215;Trommstraße;-
+;;Trompetergasse;-
+;Q1972796;Troßweg;-
+;Q461271;Trübnerstraße;m
+;Q2571645;Trützschlerstraße;m
+;Q72843;Tullastraße;m
+;Q93201;Tulpenstraße;-
+;Q1495860;Tunnelstraße;-
+;;Turbinenstraße;-
+;;Turfweg;-
+;-;Turley-Straße;m
+;-;Turleyplatz;m
+;Q2121848;U 1;
+;Q2121848;U 2;
+;Q2121848;U 3;
+;Q2121848;U 4;
+;Q2121848;U 5;
+;Q2121848;U 6;
+;Q332952;Überlinger Straße;-
+;Q61058;Uhlandstraße;m
+;Q527642;Uhldinger Straße;-
+;Q382603;Ulanenweg;+
+;Q131113;Ulmenweg;-
+;Q2493666;Ungsteiner Straße;-
+;;Unionstraße;-
+;;Unter dem Elkersberg;-
+;Q25243;Unter den Birken;-
+;;Unter den Weiden;-
+;Q1605768;Untere Clignetstraße;m
+;;Unteres Kirchfeld;-
+;;Unteres Ringgäßchen;-
+;;Unterfeld;-
+;;Untergasse;-
+;;Untermühlaustraße;-
+;;Unterneugasse;-
+;Q2508486;Valentin-Streuber-Straße;m
+;Q1695476;Van-den-Branden-Weg;m
+;Q146095;Veilchenplatz;-
+;Q146095;Veilchenstraße;-
+;;Verbindungskanal;-
+;;Verlängerte Jungbuschstraße;-
+;Q567395;Verschaffeltstraße;m
+;Q1538517;Vetter-Passage;m
+;Q1540283;Viehhofstraße;-
+;Q16055;Viernheimer Weg;-
+;Q57648;Viktoriastraße;w
+;Q3865;Villinger Straße;-
+;Q187843;Vogesenstraße;-
+;Q14876;Völklinger Straße;-
+;;Volksschulstraße;-
+;Q680;Voltastraße;m
+;;Vor dem Teich;
+;;Vor dem Wald;-
+;;Vorderer Sporwörth;-
+;Q1433000;Wachenburgstraße;-
+;Q50897;Wachenheimer Straße;-
+;Q25662;Wacholderstraße;-
+;Q28358;Wachtelgasse;-
+;;Wachtstraße;-
+;Q504457;Waghäuseler Weg;-
+;Q174645;Walchenseeweg;-
+;Q4421;Waldblick;-
+;;Waldeckweg;-
+;;Waldfrieden;-
+;;Waldgartenweg;-
+;;Waldgrubenweg;-
+;;Waldhofbecken;-
+;;Waldhofer Pfad;-
+;;Waldhofer Weg;-
+;;Waldhofkei;-
+;Q1566479;Waldhofstraße;-
+;;Waldhornstraße;-
+;Q505447;Waldkircher Straße;-
+;;Waldlichtung;-
+;Q161090;Waldmeisterring;-
+;Q19885583;Waldparkdamm;-
+;Q19885583;Waldparkstraße;-
+;Q62068781;Waldpforte;-
+;;Waldschulweg;-
+;Q23023;Waldseestraße;-
+;Q505433;Waldshuter Straße;-
+;;Waldspitze;-
+;Q62068781;Waldstraße;-
+;;Waldwinkel;-
+;Q131087;Walkürenstraße;w
+;Q22872;Walldorfer Straße;-
+;Q503285;Walldürner Straße;-
+;Q381151;Wallonenstraße;+
+;Q2543084;Wallstadter Straße;-
+;-;Wallstraße;-
+;Q76474;Walter-Bothe-Straße;m
+;Q73525;Walter-Flex-Straße;m
+;Q2545158;Walter-Krause-Straße;m
+;Q311849;Warnemünder Weg;-
+;Q151545;Wartburgstraße;-
+;;Wasengrund;-
+;;Wasserbett;-
+;Q58044450;Wasserturmanlage;-
+;-;Wasserwerkstraße;-
+;Q9041;Wattstraße;m
+;Q192296;Webereistraße;-
+;Q154812;Weberstraße;m
+;Q62406;Weddigenstraße;m
+;Q76323;Wegenerstraße;m
+;Q36050;Weidenstraße;-
+;;Weiherstraße;-
+;;Weiherweg;-
+;Q61835;Weikersheimer Ring;-
+;Q3955;Weimarer Straße;-
+;Q22604;Weinbietstraße;-
+;Q7050;Weinheimer Straße;-
+;Q7050;Weinheimer Weg;-
+;Q158513;Weißbuchenweg;-
+;Q22636;Weißenburgstraße;-
+;Q14815;Weißenfelser Weg;-
+;Q130390691;Weißenseeweg;-
+;Q146992;Weißtannenhof;-
+;Q146992;Weißtannenweg;-
+;Q15645384;Weizenplatz;-
+;Q15645384;Weizenstraße;-
+;Q156433;Welfenweg;+
+;Q64634;Werderplatz;m
+;Q64634;Werderstraße;m
+;;Werfthallenstraße;-
+;Q1769508;Werftstraße;-
+;Q40904;Werner-Heisenberg-Straße;m
+;Q2562132;Werner-Nagel-Ring;m
+;;Wernerstraße;-
+;Q15982;Wernigeroder Weg;-
+;Q61912;Wertheimer Straße;-
+;Q1749106;Werthmannweg;m
+;Q116445724;Wespinstraße;w
+;Q47004109;Westliche Bahnstraße;-
+;;Westring;-
+;Q4178;Wetzlarer Winkel;-
+;-;Weylstraße;m
+;Q73048;Wichernweg;m
+;Q2568221;Wieblinger Straße;-
+;Q1721;Wiesbadener Straße;-
+;Q7777019;Wiesenstraße;-
+;Q12567;Wikingerstraße;+
+;Q502755;Wildbader Straße;-
+;Q78409;Wilhelm-Blos-Straße;m
+;Q109540;Wilhelm-Busch-Straße;m
+;Q58830;Wilhelm-Filchner-Straße;m
+;Q57285;Wilhelm-Furtwängler-Straße;m
+;Q551282;Wilhelm-Lehmbruck-Weg;m
+;Q213868;Wilhelm-Leuschner-Straße;m
+;Q20127;Wilhelm-Liebknecht-Straße;m
+;-;Wilhelm-Neumann-Straße;m
+;Q58029;Wilhelm-Peters-Straße;m
+;Q102242255;Wilhelm-Schaaff-Weg;m
+;Q2575485;Wilhelm-Varnholt-Allee;m
+;Q75814;Wilhelm-Wundt-Platz;m
+;Q75814;Wilhelm-Wundt-Straße;m
+;;Wilhelmkai;-
+;Q215872;Wilhelmstraße;m
+;;Wilhelmswörthstraße;-
+;Q84598429;Will-Sohl-Straße;m
+;Q2514;Willy-Brandt-Platz;m
+;Q491535;Wimpfener Straße;-
+;-;Windeckstraße;-
+;;Windmühlstraße;-
+;Q182625;Windsoranlage;-
+;Q22715;Wingertsau;-
+;Q22715;Wingertsbuckel;-
+;Q22715;Wingertstraße;-
+;Q22715;Wingertsweg;-
+;Q2584478;Winkeler-Straße;-
+;;Winkelweg;-
+;Q1311;Winterstraße;-
+;Q897317;Winzerplatz;-
+;Q7030;Wismarer Weg;-
+;Q6837;Wittenberger Weg;-
+;Q11343;Wittener Straße;-
+;Q506780;Wolfacher Straße;-
+;Q18821;Wolframstraße;m
+;Q3852;Wormser Straße;-
+;Q3852;Wormser Weg;-
+;;Wörthfelder Weg;-
+;Q22762;Wörthstraße;-
+;"Q43610;Q14754536";Wotanstraße;m
+;;Wupperstraße;-
+;Q879426;Xaver-Fuhr-Straße;m
+;Q65432;Yorckstraße;m
+;Q22741;Zaberner Straße;-
+;;Zäher Wille;
+;Q247331;Zähringer Straße;-
+;Q11758;Zamenhofstraße;m
+;Q148463;Zaubernußweg;-
+;Q25740;Zaunkönigweg;-
+;Q4232315;Zechenstraße;-
+;;Zehntstraße;-
+;Q5261336;Zeisiggasse;-
+;Q16087;Zeitzer Weg;-
+;Q15377069;Zellerfelder Weg;-
+;Q19214166;Zellerstraße;m
+;Q2050766;Zellstoffstraße;-
+;Q2050766;Zellstoffweg;-
+;Q189241;Zeltinger Straße;-
+;Q75780;Zeppelinstraße;m
+;;Ziegelgasse;-
+;;Ziegelhüttenweg;-
+;;Zielstraße;-
+;Q63053;Ziethenstraße;m
+;;Zuflucht;-
+;;Zum Dornbusch;-
+;;Zum Herrenried;-
+;;Zur Waldau;-
+;;Zwerchgasse;-
+;Q3778;Zwickauer Weg;-
+;Q244821;Zwingenberger-Straße;-
+;;Zwischenstraße;-
+;Q146911;Zypressenstraße;-

@@ -1212,7 +1212,7 @@
 ;;Marktplatz;-
 ;Q19996517;Marktstraße;-
 ;Q111;Marsweg;-
-;-;Martin-Lutz-Platz;m
+;Q1904498;Martin-Lutz-Platz;m
 ;Q133704;Martinistraße;m
 ;Q77127;Mary-Wigman-Straße;w
 ;Q22829;Maudacher Straße;-
@@ -1552,7 +1552,7 @@
 ;;Rheinwiesenstraße;-
 ;Q107359789;Rhenaniastraße;-
 ;Q98545;Richard-Lenel-Straße;m
-;;Richard-Wagner-Straße;m
+;Q1511;Richard-Wagner-Straße;m
 ;Q84704;Rickertstraße;m
 ;;Riedfeldstraße;-
 ;;Riedgärtenstraße;-
